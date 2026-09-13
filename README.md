@@ -5,3 +5,12 @@ In Progress
 ## Team
 Graduation Project Team
 Zagazig University
+## Team
+
+- Samar Mohamed Nafea
+- Esraa Saeed Elshafey
+- Menna Mohamed Hassan Fouad 
+- Heba Magdy Abdelrahman
+- Ziad Mahmoud Ahmed
+- Mohamed Wael Eldeeb 
+- Salah Eldin Galal ELnabrawy
