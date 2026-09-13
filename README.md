@@ -16,4 +16,4 @@ Graduation Project Team – Zagazig University
 - Salah Eldin Galal ELnabrawy
 
 ## Supervisor
-**Dr. Waleed Sayed**
+**Dr. Waleed Fathy**
