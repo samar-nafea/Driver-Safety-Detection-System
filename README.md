@@ -5,9 +5,7 @@ An edge-AI based driver safety system that combines driver monitoring and vehicl
 In Progress
 
 ## Team
-Graduation Project Team
-Zagazig University
-## Team
+Graduation Project Team - Zagazig University
 
 - Samar Mohamed Nafea
 - Esraa Saeed Elshafey
